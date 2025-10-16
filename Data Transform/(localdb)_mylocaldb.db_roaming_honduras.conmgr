@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=(localdb)\mylocaldb;Initial Catalog=db_roaming_honduras;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Desafio1_CZ220876-{D8F7B336-A69C-44FD-8778-995DEEDE4A2B}(localdb)\mylocaldb.db_roaming_honduras;Auto Translate=False;" />
+      DTS:ConnectionString="Data Source=(localdb)\mylocaldb;Initial Catalog=db_roaming_honduras;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Desafio1_Data Transform-{D8F7B336-A69C-44FD-8778-995DEEDE4A2B}(localdb)\mylocaldb.db_roaming_honduras;Auto Translate=False;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>

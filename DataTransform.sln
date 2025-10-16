@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Desafio1_CZ220876", "Desafio1_CZ220876\Desafio1_CZ220876.dtproj", "{32B642A5-8C51-2656-C53E-25ADE767AF6F}"
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Desafio1_Data Transform", "Desafio1_Data Transform\Desafio1_Data Transform.dtproj", "{32B642A5-8C51-2656-C53E-25ADE767AF6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
